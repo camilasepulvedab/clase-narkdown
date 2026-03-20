@@ -1,4 +1,4 @@
-# clase-markdown Clase 1 Github
+ # clase-markdown Clase 1 Github
 
 
 Gihub es una plataforma diseñada para almacenar, gestionar y compartir codigos. Es una red social  que facilita colaboraciones y se puede ir controlando cada cambio realizado para tener un historial de los movimientos realizados ( sistema de control de versiones gift).
@@ -14,10 +14,30 @@ titulo peso 1: # espacio Titulo nivel 1
 titulo: 2 ## espacio espacio titulo nivel 2 
 titulo 3: ### espacio espacio Titulo nivel 3
 
-FORMATO DE TEXTO
+**FORMATO DE TEXTO**
 
 Negrita: **texto** o _texto_
 cursiva: *texto* o _texti_
 negrita y cursiva: ***texto***
 tachado:~~texto~~ 
-escapado de simbolo: ⁄#texto
+escapado de \#texto
+
+**listas** : para que la sub categoria funcione debe ponerse 2 o 4 espacios, antes del aterisco o numero 
+
+Viñeta:
+* Elemento A espacio espacio enter (1. elemento 1 espacio espacio) 
+* Elemento B espacio espacio enter 
+* Elemento C espacio espacio enter 
+* Sub elemento C1: espacio espacio
+* Sub elemento C2
+
+1. si
+
+   3.1 elemento
+   
+LINKS E IMAGENES:
+Links: [Nombre de la web](https//url.com)
+imagenes: ![texto alternativo](https://url-de-la-imagen.jpg)
+imagen con links: [![Texto alternativo](url-imagen)](url-destino)
+  
+![hola](
