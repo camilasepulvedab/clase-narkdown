@@ -37,8 +37,7 @@ Viñeta:
    
 LINKS E IMAGENES:
 Links: [Nombre de la web](https//url.com)
-imagenes: ![texto alternativo](https://url-de-la-imagen.jpg)
+imagenes: ![texto alternativo](https://url-de-la-imagen.jpg)     ( para copiar link de imagen se pone click drecho y copiar direccion de imagen)
 imagen con links: [![Texto alternativo](url-imagen)](url-destino)
   
-![fotos] ([
-](https://www.google.com/url?sa=t&source=web&rct=j&url=https%3A%2F%2Fwww.freepik.es%2Ffotos%2Fverano&ved=0CBYQjRxqFwoTCMC2ypnnrpMDFQAAAAAdAAAAABAH&opi=89978449)
+![fotos](https://www.zooplus.es/magazine/wp-content/uploads/2020/03/mejores-fotos-de-perros.webp)
