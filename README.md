@@ -28,16 +28,25 @@ Viñeta:
 * Elemento A espacio espacio enter (1. elemento 1 espacio espacio) 
 * Elemento B espacio espacio enter 
 * Elemento C espacio espacio enter 
-* Sub elemento C1: espacio espacio
+* Sub elemento C1: espacio espacio 
 * Sub elemento C2
 
 1. si
 
    3.1 elemento
    
+   
 LINKS E IMAGENES:
+
+
 Links: [Nombre de la web](https//url.com)
 imagenes: ![texto alternativo](https://url-de-la-imagen.jpg)     ( para copiar link de imagen se pone click drecho y copiar direccion de imagen)
-imagen con links: [![Texto alternativo](url-imagen)](url-destino)
+imagen con links: [![Texto alternativo](url-imagen)](url-destino)   ( url imagen es la fotografia y url destino es donde se optiebne tepografia)
   
 ![fotos](https://www.zooplus.es/magazine/wp-content/uploads/2020/03/mejores-fotos-de-perros.webp)
+[![web](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_PuyNK1KxGm1uyBsb9B14L5n__48-FHHx1g&s)](https://portalinnova.cl/con-estos-tips-y-aplicaciones-tendras-fotos-y-videos-como-un-profesional/)
+
+
+BLOQUE DE CODIGOS 
+
+(3 backtick)     ```python print("hola mundo")```   se usa para codigos 
