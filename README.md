@@ -34,3 +34,7 @@ El telar introdujo tres nuevos conceptos en el mundo computacional moderno:
 Fue la primera programadora, matematuca y escritora Britanica mujer. Conocida por su campo en programación y su alta colaboración con el proyecto  **maquina analitica** de **Charles Babbage**.
 Escribió el primer programa de la historia de algoritmos, que ve como calcular numeros de **bernoulli**, combirtiendola asi en la primera programadora de la historia.
 
+## Maquina de Turing
+
+Es un experimento mental, creada por el matematico Ingles **Alan Turing** en 1936. Es una maquina automatica y teorica con una ciunta de cabezal, que lee/escribe símbolos 
+y un conjunto de reglas(estados). Definiendo asi la computabilidad universal. gracias a unas buenas instrucciones, puede simular cualquier otra maquina, importando el codigo. 
