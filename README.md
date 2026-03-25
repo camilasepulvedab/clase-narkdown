@@ -24,4 +24,13 @@ creado por **Joseph Marie Jacquard** en 1801, fue el primer sistema de almacenam
 El telar usaba tarjetas perforadas, para lograr patrones complejos y automatizados. 
 tenia sistema de cuando si y no se debia intruducir la varilla en el agujero o hilo. 
 
-El telar introdujo tres nuevos conceptos en el mundo computacional moderno
+El telar introdujo tres nuevos conceptos en el mundo computacional moderno:
+1. separación entre hardware y software
+2. sistema binario
+3. pixel e imagen rasterizada
+
+## Adda Lovelace 
+
+Fue la primera programadora, matematuca y escritora Britanica mujer. Conocida por su campo en programación y su alta colaboración con el proyecto  **maquina analitica** de **Charles Babbage**.
+Escribió el primer programa de la historia de algoritmos, que ve como calcular numeros de **bernoulli**, combirtiendola asi en la primera programadora de la historia.
+
