@@ -1,52 +1,19 @@
- # clase-markdown Clase 1 Github
+# historia de la computación
 
+**arquitectura del pensamiento**: es pensar logico. la maquina imita el pensar humano, para asi ayudarlo. 
 
-Gihub es una plataforma diseñada para almacenar, gestionar y compartir codigos. Es una red social  que facilita colaboraciones y se puede ir controlando cada cambio realizado para tener un historial de los movimientos realizados ( sistema de control de versiones gift).
-Markdown es forma de lenguaje de marcado ligero. escrtura de texto con formatos, titulos, negritas, imagenes,enlace, para darle formatos. 
-para separa dos parrafos se debe apretar enter dos veces y apretar confirmar los cambios
+## maquina diferencial
 
-si quieren bajar sin dejar espacio cambiar a la siguiente linea son dos espacios en blanco al final de la frase y luego poner enter.  
-Mrkdown permite usar etiquetas de HTML basico, para obligar un salto de lineas se pone enter enter tres lineas y enter enter.  
+es la primera maquina del mundo, diseñada por ** Charles Babbage** en 1822. Buscaba sistematizar el calcúlo y la tabulación de funciónes polinómicas.
+Tareas que antes se realizaban manualmente y tenian margen de error, este dispositivo mecanico de gran escala optmiso el trabajoo de  servía resolver ecuaciones e imprimir resultados de formas de tablas matematicas. 
+aun que  no se haya construido, se desarrollaron los diseños para poder hacer su realización.
 
-TITULOS 
+## maquina diferencial II
 
-titulo peso 1: # espacio Titulo nivel 1
-titulo: 2 ## espacio espacio titulo nivel 2 
-titulo 3: ### espacio espacio Titulo nivel 3
+El Museo de Ciencias de Londres construyó en 1991 la maquina diferenciaal parte dos. Con los mismos planos de **Babbage**. 
+funcionó perfectamente, confirmando asi que el diseño de **Babbage** era correcto y que su  propuesta era innovadora y realizable en la epoca victoriana. 
 
-**FORMATO DE TEXTO**
+## maquena analitica
 
-Negrita: **texto** o _texto_
-cursiva: *texto* o _texti_
-negrita y cursiva: ***texto***
-tachado:~~texto~~ 
-escapado de \#texto
-
-**listas** : para que la sub categoria funcione debe ponerse 2 o 4 espacios, antes del aterisco o numero 
-
-Viñeta:
-* Elemento A espacio espacio enter (1. elemento 1 espacio espacio) 
-* Elemento B espacio espacio enter 
-* Elemento C espacio espacio enter 
-* Sub elemento C1: espacio espacio 
-* Sub elemento C2
-
-1. si
-
-   3.1 elemento
-   
-   
-LINKS E IMAGENES:
-
-
-Links: [Nombre de la web](https//url.com)
-imagenes: ![texto alternativo](https://url-de-la-imagen.jpg)     ( para copiar link de imagen se pone click drecho y copiar direccion de imagen)
-imagen con links: [![Texto alternativo](url-imagen)](url-destino)   ( url imagen es la fotografia y url destino es donde se optiebne tepografia)
-  
-![fotos](https://www.zooplus.es/magazine/wp-content/uploads/2020/03/mejores-fotos-de-perros.webp)
-[![web](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_PuyNK1KxGm1uyBsb9B14L5n__48-FHHx1g&s)](https://portalinnova.cl/con-estos-tips-y-aplicaciones-tendras-fotos-y-videos-como-un-profesional/)
-
-
-BLOQUE DE CODIGOS 
-
-(3 backtick)     ```python print("hola mundo")```   se usa para codigos 
+creada por **Charles Babbage** en 1834 hasta 1837, fue una maquina que hacia varios calculos/operaciones matematicas.Se caracterizaba por tener procesador, memoria y software,
+siendo muy innovador para la epoca.Era una versión mejorada de la maquina diferencial. 
