@@ -17,3 +17,11 @@ funcionó perfectamente, confirmando asi que el diseño de **Babbage** era corre
 
 creada por **Charles Babbage** en 1834 hasta 1837, fue una maquina que hacia varios calculos/operaciones matematicas.Se caracterizaba por tener procesador, memoria y software,
 siendo muy innovador para la epoca.Era una versión mejorada de la maquina diferencial. 
+
+## Telar de Jacquard
+
+creado por **Joseph Marie Jacquard** en 1801, fue el primer sistema de almacenamiento de información binaria y funcionaba con si y no. 
+El telar usaba tarjetas perforadas, para lograr patrones complejos y automatizados. 
+tenia sistema de cuando si y no se debia intruducir la varilla en el agujero o hilo. 
+
+El telar introdujo tres nuevos conceptos en el mundo computacional moderno
