@@ -111,7 +111,7 @@ Expandieron **Drsign by Numbers(DBN)**, le agregaron paleta de color y el tamañ
 #P5.Js
 
 Creado po **Lauren Mccarthy**, es una herramienta online muy amigable para aprender a programar y hacer arte. Es una biblioteca de **JavaScript libre** y de codigo abierto, construida para una comunidad inclusiva y solidaria.
-1. 
+
  
 
 
