@@ -38,3 +38,36 @@ Escribió el primer programa de la historia de algoritmos, que ve como calcular 
 
 Es un experimento mental, creada por el matematico Ingles **Alan Turing** en 1936. Es una maquina automatica y teorica con una ciunta de cabezal, que lee/escribe símbolos 
 y un conjunto de reglas(estados). Definiendo asi la computabilidad universal. gracias a unas buenas instrucciones, puede simular cualquier otra maquina, importando el codigo. 
+
+
+#El despertar visual
+
+##Aristas y algoritmos
+
+Los esfuerzos por usar la computadora para crear arte comenzaron en la decada de 1960 
+en medio de una escena artística efervescente y diversa.
+habiendo pioneros del llamado **arte computacional** como Vera Molnár, Hiroshi Kawano, Waldemar 
+Cordeiro, entre otros.
+Gracias a esta colaboración se realizo una exposición en Londres en el 1968 de Arte cibernética organizada por **Jorge Glusberg** llamado **cybernetic Serendipity** hasta el 1969.
+
+
+##John y James Whitney
+
+Pioneros en el trabajo de Computer Graphics Animation.
+Whitney recuperó un computador analógico de la Segunda Guerra Mundial (un director de tiro antiaério M-5) y lo modificó.Convirtío los voltajes en movimientos de cámara y luz para pintar sobre celuloide.
+Amnos introducen el concepto de Diseño Paramétrico y Moviminto Armónico.
+
+
+##Sketchpad Ivan Sutherland
+
+El padre de la computación gráfica en 1963 creo el primer programa informático que permitía dibujar directamente en la pantalla usando un lápiz óptico, siendo asi el pionero en la interacción humano-computador (HCI), sentando las bases de programas de computadores asistidos por computador. 
+Además introduce la **Programación Orientada a Objetos (POO) de forma visual.
+
+
+###1968, Douglas Engelbart
+
+Creo el concepto de Bitmapping,ventanas creo la manipulación directa mediante un mouse.
+ 
+
+
+
