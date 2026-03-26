@@ -67,6 +67,12 @@ Además introduce la **Programación Orientada a Objetos (POO) de forma visual.
 ###1968, Douglas Engelbart
 
 Creo el concepto de Bitmapping,ventanas creo la manipulación directa mediante un mouse.
+
+
+#Democratización del creative coding
+
+El software libre nace formalmente en 1983, cuando **Richard Stallman** anució el inicio del **Proyecto GNU**
+La idea del proyecto era crear un sistema operativo libre. En 1985 se publica el manifiesto GNU y se funda **Free software Foundation (FSF)**.
  
 
 
